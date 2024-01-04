@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.383785d5.css",
+    "main.js": "/frontend/static/js/main.c19cb6ec.js",
+    "static/media/arabic-man-traditional-wear-smiling-prsenting-with-arm-hand-standing-white-wall.png": "/frontend/static/media/arabic-man-traditional-wear-smiling-prsenting-with-arm-hand-standing-white-wall.4fc13d749e7c9c3520a6.png",
+    "static/media/crud4.jpg": "/frontend/static/media/crud4.b4174ddb093e2eb3c0c6.jpg",
+    "static/media/user-avatar.png": "/frontend/static/media/user-avatar.0431e2167dc7538efb55.png",
+    "static/media/edit.png": "/frontend/static/media/edit.3a5719e61661a36f0f6b.png",
+    "index.html": "/frontend/index.html",
+    "main.383785d5.css.map": "/frontend/static/css/main.383785d5.css.map",
+    "main.c19cb6ec.js.map": "/frontend/static/js/main.c19cb6ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383785d5.css",
+    "static/js/main.c19cb6ec.js"
+  ]
+}
